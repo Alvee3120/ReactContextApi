@@ -8,3 +8,18 @@ Lets see how to use this step by step :
 First create react project by using this command :
 
  <pre>npm install vite@latest </pre>
+
+
+### Step-2 :
+
+Create a context folder in the src file 
+then create a context and provider 
+
+Context file --- > UserContext.js
+
+
+Provider file ---> UserContextProvider.jsx
+
+
+
+
