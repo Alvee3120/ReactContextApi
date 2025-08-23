@@ -50,4 +50,10 @@ under the value , write all the value you want to pass like user,setUser
 ### Profile --> Access Data
 
 ##### Login.jsx
+![alt text](image-5.png)
 
+
+##### Profile.jsx
+![alt text](image-6.png)
+
+### Thank you , If you like this give a star !
