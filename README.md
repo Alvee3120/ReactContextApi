@@ -22,4 +22,32 @@ Provider file ---> UserContextProvider.jsx
 
 
 
+### Step-3 :
+
+##### UserContext.js File
+
+ <pre>import React from "react";
+
+const UserContext = React.createContext()
+
+export default UserContext;</pre>
+
+
+
+### Step-4 :
+
+##### UserContextProvider.jsx
+
+![UserContextProvider.jsx File](image-3.png)
+
+under the value , write all the value you want to pass like user,setUser
+
+### Step-5 :
+#### Main Question is how to access the passed value ?  Ans in very simple , All you need to do is wrap the text into "UserContextProvider" 
+![alt text](image-4.png)
+### Let's Create two example file to clear the concept
+### Login --> Send Data
+### Profile --> Access Data
+
+##### Login.jsx
 
